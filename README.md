@@ -2,7 +2,10 @@
 Masa yüzeyini temizlemek için tasarlanan, boşluk algılama sensörleri sayesinde güvenli hareket edebilen Arduino destekli robot.
 
 
-https://github.com/user-attachments/assets/6aecf721-3603-43e9-9cc9-40139b5720e2
+
+
+https://github.com/user-attachments/assets/e18372ca-430f-4fb3-9764-00435552a1d8
+
 
 
 
